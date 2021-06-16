@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hello everyone! I am Deven Mistry. I am graduate student at the University of Cincinnati. I am currently working on my thesis. I am advised by (Ali Minai)[https://www.ceas3.uc.edu/profiles/minaiaa]. I am relatively new to field of deep learning.
+Hello everyone! I am Deven Mistry. I am graduate student at the University of Cincinnati. I am currently working on my thesis. I am advised by [Ali Minai](https://www.ceas3.uc.edu/profiles/minaiaa). I am relatively new to field of deep learning.
 
 My research interests lie in Natural Language Processing. Besides that as an individual, I have varied interests ranging from cooking, reading about psychology, physics, philosophy and playing instruments.
 
