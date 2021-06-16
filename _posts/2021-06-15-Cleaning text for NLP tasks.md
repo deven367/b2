@@ -4,6 +4,7 @@ layout: post
 description: A simple guide for cleaning text
 categories: [text preprocessing, tokenization, lemmatization, regex, nltk]
 title: Cleaning text for NLP tasks
+comments: true
 ---
 
 # Cleaning text for NLP tasks
