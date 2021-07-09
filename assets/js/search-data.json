@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Cleaning text for NLP tasks",
-            "content": "Cleaning text for NLP tasks . Some background . I started working in the field of Natual Language Processing back in August 2020. I am no expert in this field but in the past few months that I have spent my time cleaning textual data from different sources, I did manage to learn a few things and I am here to share them. These tips/suggestions are coming from someone who has had no prior experience in NLP at all. I hope whoever is reading this gets to learn something out of it. With that being said, let’s get started! . Reading txt files .",
+            "content": "Cleaning text for NLP tasks . Some background . I started working in the field of Natual Language Processing back in August 2020. I am no expert in this field but in the past few months that I have spent my time cleaning textual data from different sources, I did manage to learn a few things and I am here to share them. These tips/suggestions are coming from someone who has had no prior experience in NLP at all. I hope whoever is reading this gets to learn something out of it. With that being said, let’s get started! . Reading txt files . There are a few simple parameters which people don’t often use while read txt files .",
             "url": "https://deven367.github.io/blog/text%20preprocessing/tokenization/lemmatization/regex/nltk/2021/06/15/Cleaning-text-for-NLP-tasks.html",
             "relUrl": "/text%20preprocessing/tokenization/lemmatization/regex/nltk/2021/06/15/Cleaning-text-for-NLP-tasks.html",
             "date": " • Jun 15, 2021"
