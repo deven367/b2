@@ -4,9 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-Hello everyone! I am Deven Mistry. I am a graduate student at the University of Cincinnati. I am currently working on my thesis. I am advised by [Dr. Ali Minai](https://www.ceas3.uc.edu/profiles/minaiaa). I am relatively new to the field of the deep learning.
+Hello everyone! I am Deven Mistry. I am a graduated from University of Cincinnati with an MS in CS. My thesis was titled "A Systematic Comparitive Study of Sentence Embedding Methods on Using Real-World Text Corpora" . I was advised by [Dr. Ali Minai](https://www.ceas3.uc.edu/profiles/minaiaa).
 
-Currently, I am working as a Software Engineer Intern at [Global Quality Corp](http://gqc.com/). I work under the supervision of [Dr. Sudhir Kshirsagar](https://www.linkedin.com/in/dr-sudhir-kshirsagar-47a9903?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAACtt54B7bA7svJpRLVTRcBQyQiGaV73U0c&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BXOKe37h7Ram0s8bpvTfIrQ%3D%3D). Here, I am working on interesting projects on image segmentation, image classification. I even got to participate in a NLP hackathon, where we built a Market Sentiment Predictor by analyzing tweets of influential tech personalities.
+Currently, I am working as a Software Engineer at [Global Quality Corp](http://gqc.com/). I work under the supervision of [Dr. Sudhir Kshirsagar](https://www.linkedin.com/in/dr-sudhir-kshirsagar-47a9903?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAACtt54B7bA7svJpRLVTRcBQyQiGaV73U0c&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BXOKe37h7Ram0s8bpvTfIrQ%3D%3D). Here, I am working on interesting projects on image segmentation, image classification.
 
 My research interests lie in Natural Language Processing, Computer Vision and various topics in Machine Learning. Besides that as an individual, I have varied interests ranging from cooking, reading about psychology, physics, philosophy and playing instruments.
 
